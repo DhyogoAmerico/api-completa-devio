@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devio.Business", "Devio.Bus
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devio.Data", "Devio.Data\Devio.Data.csproj", "{2746A3E7-D048-4A13-9EE5-11A3349E5D38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devio.API", "Devio.API\Devio.API.csproj", "{A999AE28-9A69-49D8-8C54-D7C4E8E3AE00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{2746A3E7-D048-4A13-9EE5-11A3349E5D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2746A3E7-D048-4A13-9EE5-11A3349E5D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2746A3E7-D048-4A13-9EE5-11A3349E5D38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A999AE28-9A69-49D8-8C54-D7C4E8E3AE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A999AE28-9A69-49D8-8C54-D7C4E8E3AE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A999AE28-9A69-49D8-8C54-D7C4E8E3AE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A999AE28-9A69-49D8-8C54-D7C4E8E3AE00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
